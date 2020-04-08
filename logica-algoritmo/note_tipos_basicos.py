@@ -13,7 +13,7 @@
 print(True)
 print(False)
 
- # Float + Int
+# Float + Int
 print(1.2 + 1)
 
 # String
@@ -28,6 +28,6 @@ print("Exemplo " + 3 * "muito " + "legal")
 print([1, 2, 3])
 
 # Dicionário - não é tipo
-print({"nome" : "Loregian", "nasc" : 73})
+print({"nome": "Loregian", "nasc": 73})
 
 print(None)
