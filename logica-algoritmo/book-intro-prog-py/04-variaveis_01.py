@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Exercício 2.2 pág 48 - Livro: "Intro à Prog com Python"
