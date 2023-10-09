@@ -1,2 +1,2 @@
 # Learning
-Estudos de Lógica, algorítimo e anotações diversas.
+Estudos de Lógica, algorítimo e Redes.
